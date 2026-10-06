@@ -1,0 +1,1 @@
+hi ec2 instance
